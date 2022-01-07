@@ -10,7 +10,7 @@ The Python codes for the assignments of the course on Deep Learning by Andrew Ng
 
 2 [Optimization (Adam, RMSProp....)](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/Optimization%20Algo)
 
-3 [Conv Net] Not completed Yet
+3 [Conv Net](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/ConvNet)
 
 4 [Recurent Neural Network](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/RNN)
 
