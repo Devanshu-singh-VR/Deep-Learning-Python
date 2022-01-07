@@ -2,7 +2,7 @@
 
 # Deep Learning
 
-The Python codes for assignments of the course on Deep Learning on Coursera. Following with numpy from scratch baby🤟.
+The Python codes for the assignments of the course on Deep Learning. Following with numpy -> from scratch baby🤟!!!!!!!
 
 # Assignments
 
