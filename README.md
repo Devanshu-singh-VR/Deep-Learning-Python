@@ -5,3 +5,5 @@
 The Python codes for assignments of the course on Deep Learning by Andrew Ng on Coursera. Following with numpy from scratch baby🤟.
 
 # Assignments
+
+1. [Neural Network (softmax, dropout)(https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/Softmax%20NN)
