@@ -10,4 +10,8 @@ The Python codes for the assignments of the course on Deep Learning by Andrew Ng
 
 2 [Optimization (Adam, RMSProp....)](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/Optimization%20Algo)
 
-4 [Recurent NN](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/RNN)
+3 [Conv Net] Not completed Yet
+
+4 [Recurent Neural Network](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/RNN)
+
+5 [Gated Recurrent Unit](https://github.com/Devanshu-singh-VR/Deep-Learning-Python/tree/main/Deep%20Learning/GRU)
