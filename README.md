@@ -2,7 +2,7 @@
 
 # Deep Learning
 
-The Python codes for the assignments of the course on Deep Learning by Andrew Ng. Following with numpy -> All from scratch baby🤟!!!!!!!
+The Python codes for the assignments of the course on Deep Learning by Andrew Ng. Following with numpy -> All from scratch baby🤟!!!!!!!!
 
 # Assignments
 
